@@ -1,3 +1,7 @@
+# Rick and Morty Wiki
+
+This is a project to practice the use of fetch using the Rick and Morty API also the use of different React JS and CSS libraries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
