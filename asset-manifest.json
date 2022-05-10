@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RickandMortyWiki/static/css/main.04473cda.css",
-    "main.js": "/RickandMortyWiki/static/js/main.7e54b2d0.js",
+    "main.js": "/RickandMortyWiki/static/js/main.a175222d.js",
     "static/js/787.440d89c7.chunk.js": "/RickandMortyWiki/static/js/787.440d89c7.chunk.js",
     "index.html": "/RickandMortyWiki/index.html",
     "main.04473cda.css.map": "/RickandMortyWiki/static/css/main.04473cda.css.map",
-    "main.7e54b2d0.js.map": "/RickandMortyWiki/static/js/main.7e54b2d0.js.map",
+    "main.a175222d.js.map": "/RickandMortyWiki/static/js/main.a175222d.js.map",
     "787.440d89c7.chunk.js.map": "/RickandMortyWiki/static/js/787.440d89c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04473cda.css",
-    "static/js/main.7e54b2d0.js"
+    "static/js/main.a175222d.js"
   ]
 }
